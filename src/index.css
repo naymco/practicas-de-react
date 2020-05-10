@@ -1,4 +1,11 @@
 body {
+  background: url("https://pixabay.com/get/5fe3d4444a54b108feda8460da2932761c3edfed535876_1920.jpg") ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vh;
+
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
